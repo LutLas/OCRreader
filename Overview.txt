@@ -1,0 +1,18 @@
+1. Overview
+
+Optical Character Recognition (OCR) gives a computer the ability to read text that appears in an image, letting applications make sense of signs, articles, flyers, pages of text, menus, or any other place that text appears as part of an image. The Mobile Vision Text API gives Android developers a powerful and reliable OCR capability that works with most Android devices and won't increase the size of your app.
+
+In this codelab, you will build an app that shows a live camera preview and speaks any text it sees there. Along the way, you'll learn how to use the Mobile Vision API to delight and empower your users.
+What you'll learn
+
+    Initializing the Mobile Vision TextRecognizer.
+    Setting up a Processor to receive frames from a camera as they come in and look for text.
+    Rendering out that text to the screen at its location.
+    Sending that text to Android's TextToSpeech engine to speak it aloud.
+
+What you'll need
+
+    Android Studio version 3.1+
+    The sample code.
+    A test device with Android 4.1+ and a rear-facing camera.
+    A USB micro/USB-C (whichever your device requires) cable.

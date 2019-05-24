@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\ac956899f5458eda9693d842e5ccd45a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\8cee9bf3720c33a2a6de7bd69625c27d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3f4b5ea10f541a9dfe979bd0a0a9f762\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\0797db3342124146a8d67b9430f70041\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\808ecb7d5d72ebd507bbdbc28d0a0144\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\caf3c597692356868a1b1b5d0d6c8a91\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\d3651570dfd948b7c6b8c2b0f25cf9c0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\391f5bab852076901096637c3bd53a61\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\6e55d8b2db3842b4f35400412c7255f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\d4f57eae3b084793d770e4a009c0e0dc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\b3e3137ec52f934f978eb9ba805de167\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\e56f72f01a8ecfb1c5d86f13f192397d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\99107c4271569bd7721098dc329ea68e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\c79933a6ee1831803c7e8b3a25d0adac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\b2002257dd491cbc363002f7e9e06ea9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\a9f67d491c9b0b4a618380460b520058\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\7481b6de653bc7d43c5d5b11ca8aff4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\fa91a1871033695b5139f9af20e3d999\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\095d89cc226512c5ec1bfb9c94e5270a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\8366571a92fc109b4b61047d0c849d38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\a331fb4924d0eb7eb4cacd45749735db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3afefe04b0e4f1ba7c3130626c8a17e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3e4607114bedf218c68a1d61f92aef02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\dbd7a9bf24ca328206ab0107aed55c20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\45431e09f4948e51886498e9e66af383\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\9a12593bac0aefb6979594685147bc9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\c98c6cfc3c6e400bd02945045c421447\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\bdaacecd4ce54c6a3fc9fd9196af5018\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\a8b2b001fb19a682154824f37a7bc5a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\6529adc2e69a59e1042393d0fd4c77b4\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\8f2093f082461b6d683b7055f8abf2c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\805a2239356c7f4533d3842074cb4160\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\e07ca4090ae00decaf251e1387111199\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\38ef70a6b9ee198b28d6951ede3797b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\60be2a022d5f66e97a3e175b9bbe562c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\22e6bf5d955dfc1798be201e9041958c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\6a95626a71eb278355bb2c749d96200e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3ec86686ff0b0f9e8784f20accda47c2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\674ddb9f2650e2fd43b4e018c6c1aaa5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\217a0c8c68d560cdb73d7fe640efd862\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:10:5-42:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\ac956899f5458eda9693d842e5ccd45a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\ac956899f5458eda9693d842e5ccd45a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\8cee9bf3720c33a2a6de7bd69625c27d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\8cee9bf3720c33a2a6de7bd69625c27d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3f4b5ea10f541a9dfe979bd0a0a9f762\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3f4b5ea10f541a9dfe979bd0a0a9f762\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\808ecb7d5d72ebd507bbdbc28d0a0144\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\808ecb7d5d72ebd507bbdbc28d0a0144\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\caf3c597692356868a1b1b5d0d6c8a91\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\caf3c597692356868a1b1b5d0d6c8a91\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\d3651570dfd948b7c6b8c2b0f25cf9c0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\d3651570dfd948b7c6b8c2b0f25cf9c0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\391f5bab852076901096637c3bd53a61\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\391f5bab852076901096637c3bd53a61\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\d4f57eae3b084793d770e4a009c0e0dc\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\d4f57eae3b084793d770e4a009c0e0dc\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\bdaacecd4ce54c6a3fc9fd9196af5018\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\bdaacecd4ce54c6a3fc9fd9196af5018\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\6529adc2e69a59e1042393d0fd4c77b4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\6529adc2e69a59e1042393d0fd4c77b4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\bdaacecd4ce54c6a3fc9fd9196af5018\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:16:9-37
+	android:label
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:15:9-37
+	android:hardwareAccelerated
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\391f5bab852076901096637c3bd53a61\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\391f5bab852076901096637c3bd53a61\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.SplashActivity
+ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:25:9-34:16
+	android:label
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:27:9-52
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:26:9-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:28:9-33:25
+action#android.intent.action.MAIN
+ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:29:13-30:61
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:30:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:31:13-32:67
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:32:17-64
+activity#com.google.android.gms.samples.vision.ocrreader.MainActivity
+ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:36:9-38:58
+	android:label
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:37:13-88
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:40:9-41:37
+	android:label
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:41:9-34
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml:40:19-100
+uses-sdk
+INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\ac956899f5458eda9693d842e5ccd45a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\ac956899f5458eda9693d842e5ccd45a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\8cee9bf3720c33a2a6de7bd69625c27d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\8cee9bf3720c33a2a6de7bd69625c27d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3f4b5ea10f541a9dfe979bd0a0a9f762\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3f4b5ea10f541a9dfe979bd0a0a9f762\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\0797db3342124146a8d67b9430f70041\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\0797db3342124146a8d67b9430f70041\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\808ecb7d5d72ebd507bbdbc28d0a0144\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\808ecb7d5d72ebd507bbdbc28d0a0144\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\caf3c597692356868a1b1b5d0d6c8a91\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\caf3c597692356868a1b1b5d0d6c8a91\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\d3651570dfd948b7c6b8c2b0f25cf9c0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\d3651570dfd948b7c6b8c2b0f25cf9c0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\391f5bab852076901096637c3bd53a61\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\391f5bab852076901096637c3bd53a61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\6e55d8b2db3842b4f35400412c7255f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\6e55d8b2db3842b4f35400412c7255f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\d4f57eae3b084793d770e4a009c0e0dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\d4f57eae3b084793d770e4a009c0e0dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\b3e3137ec52f934f978eb9ba805de167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\b3e3137ec52f934f978eb9ba805de167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\e56f72f01a8ecfb1c5d86f13f192397d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\e56f72f01a8ecfb1c5d86f13f192397d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\99107c4271569bd7721098dc329ea68e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\99107c4271569bd7721098dc329ea68e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\c79933a6ee1831803c7e8b3a25d0adac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\c79933a6ee1831803c7e8b3a25d0adac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\b2002257dd491cbc363002f7e9e06ea9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\b2002257dd491cbc363002f7e9e06ea9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\a9f67d491c9b0b4a618380460b520058\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\a9f67d491c9b0b4a618380460b520058\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\7481b6de653bc7d43c5d5b11ca8aff4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\7481b6de653bc7d43c5d5b11ca8aff4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\fa91a1871033695b5139f9af20e3d999\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\fa91a1871033695b5139f9af20e3d999\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\095d89cc226512c5ec1bfb9c94e5270a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\095d89cc226512c5ec1bfb9c94e5270a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\8366571a92fc109b4b61047d0c849d38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\8366571a92fc109b4b61047d0c849d38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\a331fb4924d0eb7eb4cacd45749735db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\a331fb4924d0eb7eb4cacd45749735db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3afefe04b0e4f1ba7c3130626c8a17e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3afefe04b0e4f1ba7c3130626c8a17e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3e4607114bedf218c68a1d61f92aef02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3e4607114bedf218c68a1d61f92aef02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\dbd7a9bf24ca328206ab0107aed55c20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\dbd7a9bf24ca328206ab0107aed55c20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\45431e09f4948e51886498e9e66af383\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\45431e09f4948e51886498e9e66af383\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\9a12593bac0aefb6979594685147bc9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\9a12593bac0aefb6979594685147bc9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\c98c6cfc3c6e400bd02945045c421447\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\c98c6cfc3c6e400bd02945045c421447\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\bdaacecd4ce54c6a3fc9fd9196af5018\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\bdaacecd4ce54c6a3fc9fd9196af5018\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\a8b2b001fb19a682154824f37a7bc5a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\a8b2b001fb19a682154824f37a7bc5a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\6529adc2e69a59e1042393d0fd4c77b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\6529adc2e69a59e1042393d0fd4c77b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\8f2093f082461b6d683b7055f8abf2c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\8f2093f082461b6d683b7055f8abf2c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\805a2239356c7f4533d3842074cb4160\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\805a2239356c7f4533d3842074cb4160\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\e07ca4090ae00decaf251e1387111199\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\e07ca4090ae00decaf251e1387111199\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\38ef70a6b9ee198b28d6951ede3797b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\38ef70a6b9ee198b28d6951ede3797b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\60be2a022d5f66e97a3e175b9bbe562c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\60be2a022d5f66e97a3e175b9bbe562c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\22e6bf5d955dfc1798be201e9041958c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\22e6bf5d955dfc1798be201e9041958c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\6a95626a71eb278355bb2c749d96200e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\6a95626a71eb278355bb2c749d96200e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3ec86686ff0b0f9e8784f20accda47c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\3ec86686ff0b0f9e8784f20accda47c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\674ddb9f2650e2fd43b4e018c6c1aaa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\674ddb9f2650e2fd43b4e018c6c1aaa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\217a0c8c68d560cdb73d7fe640efd862\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\217a0c8c68d560cdb73d7fe640efd862\AndroidManifest.xml:20:5-44
+INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidStudioProjects\OCR\OCRreader\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\caf3c597692356868a1b1b5d0d6c8a91\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\caf3c597692356868a1b1b5d0d6c8a91\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\caf3c597692356868a1b1b5d0d6c8a91\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muyoba Lutlas\.gradle\caches\transforms-2\files-2.1\caf3c597692356868a1b1b5d0d6c8a91\AndroidManifest.xml:24:13-79
